@@ -2,7 +2,7 @@
 # 2D Space Shooter (Web Version)
 
 A modern, feature-rich 2D Space Shooter game playable in your web browser!
-
+ 
 ## Features
 - **Player spaceship**: Move left/right, shoot bullets, collect perks.
 - **Enemies**: Descend from the top, some can shoot at you, all die in one hit.
