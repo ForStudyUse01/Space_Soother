@@ -37,7 +37,7 @@ A modern, feature-rich 2D Space Shooter game playable in your web browser!
 Alternatively, you can open `index.html` directly in your browser, but some features (like sound, if added) may require a local server.
 
 ## Credits
-- Game and code: You + AI Assistant
+- Game and code: Yuvraj Gandhi & Yooraj Gole
 - Built with **HTML5 Canvas** and **JavaScript**
 
 ---
